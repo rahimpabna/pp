@@ -1,0 +1,10 @@
+{"proxy":"none",
+"proxy2":"socks5://9eb96af3f852080a15aa:232435f1a7febc5d@gw.dataimpulse.com:824",
+"uncheck_number":"yes",
+"remove_devices":"yes",
+"enhanced_browser":"yes",
+"change_recovery":"yes",
+"enable_2fa":"yes",
+"generate_app_pwd":"yes",
+"change_pwd":"yes",
+"thread":"600"}
